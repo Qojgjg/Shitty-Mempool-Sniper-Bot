@@ -1,0 +1,2 @@
+# Shitty-Mempool-Sniper-Bot
+Multichain mempool sniper bot. A sophisticated mempool bot that unitizes smart contract as wallets to make seperate buy transactions to by pass buy cooldown and max transaction amount.checking for real time blacklist and 99% tax status. Additional feature includes honeypot checking, tradeable mode,monitoring remove LP status and user defined function name. https://t.me/PotatoSniperBot
