@@ -17,7 +17,6 @@
 This bot does not support rate limited node/endpoints. I offer node installation service (**_BSC/ETH/Cronos/Matic/Fantom_**) for **_$100_** BUSD one time payment.
 
 # **Contact**<br>
-**Youtube Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
 **Telegram Chat: https://t.me/PotatoSniperBot**<br>
 **Dev-Telegram: @poormanmentality**<br>
 **Dev-Discord: Anonymous101#5251**<br>
