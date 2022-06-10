@@ -14,6 +14,7 @@
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file in my PotatoSniper respitory https://github.com/PotatoSniper/Potato_Bot**<br><br>
 **Refer to address.txt file for _block_chain, router, factory, governance_ parameters**<br><br>
+**Bot crashes upon opening > missing required parameters or incorrect JSON format in config.json file** <br><br>
 This bot does not support rate limited node/endpoints. I offer node installation service (**_BSC/ETH/Cronos/Matic/Fantom_**) for **_$100_** BUSD one time payment.
 
 # **Contact**<br>
